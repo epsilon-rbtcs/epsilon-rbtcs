@@ -4,6 +4,9 @@
 
 ![Typing SVG](https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=600&size=22&pause=1000&color=B388FF&center=true&vCenter=true&width=800&lines=Graphic+Designer;AI+%2F+ML+Engineer;Scalable+Distributed+Systems;Product-Minded+Developer)
 
+<p align="center">
+<img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="100">
+  
 [![BTech Computer Science](https://img.shields.io/badge/B.Tech_Computer_Science-11001C?style=for-the-badge&logo=cachet&logoColor=B388FF)](#)
 [![Location](https://img.shields.io/badge/Ghaziabad,_India-11001C?style=for-the-badge&logo=googlemaps&logoColor=B388FF)](#)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-11001C?style=for-the-badge&logo=linkedin&logoColor=%23B388FF)](#)
@@ -244,6 +247,4 @@ Current_Status:
   <i>"Engineering is the art of organizing complexity to withstand forces we cannot properly assess, creating solutions that appear effortlessly simple."</i>
 </div>
 
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=11001C,2D0A31,4A0E4E,6C1A72,942A9B&height=100&section=footer" width="100%"/>
-</div>
+<img src="https://raw.githubusercontent.com/trinib/trinib/82213791fa9ff58d3ca768ddd6de2489ec23ffca/images/footer.svg" width="100%">
