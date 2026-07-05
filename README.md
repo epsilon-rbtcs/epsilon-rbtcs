@@ -23,9 +23,9 @@
 
 ### ◈ About
 
-Engineering scalable, highly available enterprise solutions with a product-centric approach. My expertise spans the entire software development lifecycle, heavily emphasizing **Distributed Systems, Full Stack Development**, and **Artificial Intelligence**. I specialize in bridging the gap between sophisticated ML models and robust production environments, delivering high-performance APIs, automated CI/CD pipelines, and intuitive user interfaces. I view code as a mechanism to solve complex business problems, driving impact through clean architecture, observability, and rigorous security standards.
+CSE (AI) undergraduate focused on Artificial Intelligence, Machine Learning, Generative AI, and Prompt Engineering. I enjoy breaking down complex problems, designing structured instructions, evaluating AI-generated outputs, and iteratively refining solutions to build practical systems. My work spans AI-powered healthcare and cybersecurity, including multimodal dementia screening and firmware security analysis, while I also conduct Google Gemini technical sessions and lead a growing AI community. I am working on improving my ML skills and practising DSA in C++
 
-**Open To:** Senior Software Engineer | ML Engineer | Solutions Architect | Open Source Collaborations
+**Open To:**  ML Engineer | Prompt Engineer | Open Source Collaborations
 
 ---
 
@@ -33,19 +33,19 @@ Engineering scalable, highly available enterprise solutions with a product-centr
 
 **Languages**
 <br>
-<a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=python,java,cpp,go,rust,ts,js,bash" /></a>
+<a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=python,c,cpp" /></a>
 
 **Frontend**
 <br>
-<a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=react,nextjs,vue,tailwind,redux,materialui,html,css" /></a>
+<a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=react,vue,tailwind,html,css" /></a>
 
 **Backend & Databases**
 <br>
-<a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=nodejs,spring,fastapi,django,graphql,postgres,mongodb,redis,mysql,cassandra" /></a>
+<a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=fastapi,redis,mysql" /></a>
 
 **Cloud, DevOps & Tooling**
 <br>
-<a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=aws,gcp,docker,kubernetes,githubactions,terraform,linux,nginx,kafka,rabbitmq" /></a>
+<a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=gcp,docker,kubernetes,githubactions,terraform,nginx," /></a>
 
 ---
 
@@ -140,10 +140,9 @@ Developed and maintained high-traffic web applications, focusing on the seamless
 
 | Recognition | Details |
 | :--- | :--- |
-| **Winner, Global Cloud Hackathon 2023** | Placed 1st out of 400+ teams by building an AI-driven disaster recovery automation tool. |
-| **Top 1% LeetCode Global Rank** | Maintained a top percentile ranking, successfully solving 1000+ algorithmic challenges. |
-| **Open Source Contributor Award** | Recognized by the Apache Software Foundation for critical bug fixes in core repository algorithms. |
-| **Employee of the Year 2022** | Awarded for exceptional architectural contributions and leadership at Enterprise Systems Inc. |
+| **Aavishkar 5.0 Winner (2026)** | Placed 1st out of **150+ teams** by building an AI-driven early dementia detection system. |
+| **Top 60 Hacknovate 7.0 (2026)** | Placed Top 60 in online mode working on AIML based Deepfake Detection System.  |
+| **Google Arcade Legend (2025)** | Completed **390+ labs** working with Kubernetes, AI/ML workflows, LLMs, Appsheet, etc along with other Google Cloud services. |
 
 </div>
 
@@ -153,7 +152,7 @@ Developed and maintained high-traffic web applications, focusing on the seamless
 
 <div align="center">
 
-**AWS**
+**Google**
 [![AWS Certified Solutions Architect - Professional](https://img.shields.io/badge/AWS_Solutions_Architect_Pro-11001C?style=for-the-badge&logo=amazon-aws&logoColor=B388FF)](#)
 [![AWS Certified Machine Learning - Specialty](https://img.shields.io/badge/AWS_Machine_Learning_Specialty-11001C?style=for-the-badge&logo=amazon-aws&logoColor=B388FF)](#)
 
@@ -212,13 +211,22 @@ Developed and maintained high-traffic web applications, focusing on the seamless
 
 ### ◈ Contribution Snake
 
-<div align="center">
+<p align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/epsilon-rbtcs/epsilon-rbtcs/output/github-contribution-grid-snake-dark.svg">
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/epsilon-rbtcs/epsilon-rbtcs/output/github-contribution-grid-snake.svg">
-    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/epsilon-rbtcs/epsilon-rbtcs/output/github-contribution-grid-snake.svg" width="100%">
+    <source
+      media="(prefers-color-scheme: dark)"
+      srcset="https://raw.githubusercontent.com/epsilon-rbtcs/epsilon-rbtcs/snake/github-snake-dark.svg"
+    />
+    <source
+      media="(prefers-color-scheme: light)"
+      srcset="https://raw.githubusercontent.com/epsilon-rbtcs/epsilon-rbtcs/snake/github-snake.svg"
+    />
+    <img
+      alt="GitHub contribution snake"
+      src="https://raw.githubusercontent.com/epsilon-rbtcs/epsilon-rbtcs/snake/github-snake.svg"
+    />
   </picture>
-</div>
+</p>
 
 ---
 
