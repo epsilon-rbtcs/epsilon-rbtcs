@@ -1,8 +1,14 @@
 <div align="center">
 
-![Header Banner](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=11001C,2D0A31,4A0E4E,6C1A72,942A9B&height=200&section=header&text=Ankit%20Bhadra&fontSize=42&fontAlignY=35&desc=Welcome%20To%20My%20GitHub&descAlignY=55&fontColor=FFFFFF)
+![MidnightOwl](https://github.com/user-attachments/assets/a7605427-fa69-416f-85ec-955ea51490c1)
 
-![Typing SVG](https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=600&size=22&pause=1000&color=B388FF&center=true&vCenter=true&width=800&lines=Graphic+Designer;AI+%2F+ML+Engineer;Probably+missed+a+meal+as+we+speak;Rapid+MVP+Deeveloper)
+<div align="center">
+
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Poppins&weight=700&size=45&duration=2500&pause=1200&color=F7F7F7&center=true&vCenter=true&width=800&height=80&lines=Hola%F0%9F%91%8B!+This+is+Ankit+Bhadra)](https://git.io/typing-svg)
+
+</div>
+  
+![Typing SVG](https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=600&size=22&pause=1000&color=B388FF&center=true&vCenter=true&width=800&lines=Graphic+Designer;AI+%2F+ML+Engineer;Probably+missed+a+meal+as+we+speak;Rapid+MVP+Developer;Public+Speaker)
 
 <p align="center">
 <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="100">
@@ -10,7 +16,6 @@
 [![BTech Computer Science](https://img.shields.io/badge/B.Tech_Computer_Science-11001C?style=for-the-badge&logo=cachet&logoColor=B388FF)](#)
 [![Location](https://img.shields.io/badge/Ghaziabad,_India-11001C?style=for-the-badge&logo=googlemaps&logoColor=B388FF)](#)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-11001C?style=for-the-badge&logo=linkedin&logoColor=%23B388FF)](https://www.linkedin.com/in/ankit-bhadra)
-[![Email](https://img.shields.io/badge/Email-11001C?style=for-the-badge&logo=minutemailer&logoColor=B388FF)](abhadra1606@gmail.com)
 
 
 [![Profile Views](https://komarev.com/ghpvc/?username=enterprise-engineer&label=Profile%20Views&color=4A0E4E&style=for-the-badge)](#)
@@ -24,6 +29,8 @@
 ### ◈ About
 
 CSE (AI) undergraduate focused on Artificial Intelligence, Machine Learning, Generative AI, and Prompt Engineering. I enjoy breaking down complex problems, designing structured instructions, evaluating AI-generated outputs, and iteratively refining solutions to build practical systems. My work spans AI-powered healthcare and cybersecurity, including multimodal dementia screening and firmware security analysis, while I also conduct Google Gemini technical sessions and lead a growing AI community. I am working on improving my ML skills and practising DSA in C++
+
+**Contact** : Email - abhadra1606@gmail.com
 
 **Open To:**  ML Engineer | Prompt Engineer | Open Source Collaborations
 
