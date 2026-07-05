@@ -222,7 +222,7 @@ Developed and maintained high-traffic web applications, focusing on the seamless
       srcset="https://raw.githubusercontent.com/epsilon-rbtcs/epsilon-rbtcs/snake/github-snake.svg"
     />
     <img
-      alt="GitHub contribution snake"
+      alt="GitHub contribution snake animation"
       src="https://raw.githubusercontent.com/epsilon-rbtcs/epsilon-rbtcs/snake/github-snake.svg"
     />
   </picture>
