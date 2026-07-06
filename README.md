@@ -128,7 +128,9 @@ Developed and maintained high-traffic web applications, focusing on the seamless
 ### ◈ GitHub Analytics
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=epsilon-rbtcs&amp;theme=transparent&amp;fire=942A9B&amp;ring=B388FF&amp;currStreakLabel=B388FF&amp;border=2D0A31&amp;bg_color=0A0012&amp;hide_border=false&amp;v=1" height="190" alt="GitHub Streak"/>
+
+[![GitHub Streak](https://github-streak-stats.vercel.app?user=epsilon-rbtcs&theme=highcontrast)](https://git.io/streak-stats)
+
 </div>
 
 ---
