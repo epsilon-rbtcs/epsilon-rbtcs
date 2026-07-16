@@ -40,7 +40,7 @@ CSE (AI) undergraduate focused on Artificial Intelligence, Machine Learning, Gen
 
 **Languages**
 <br>
-<a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=python,c,cpp" /></a>
+<a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=python,c" /></a>
 
 **Frontend**
 <br>
