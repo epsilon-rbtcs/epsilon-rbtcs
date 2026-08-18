@@ -28,7 +28,7 @@
 
 ### ◈ About
 
-CSE (AI) undergraduate focused on Artificial Intelligence, Machine Learning, Generative AI, and Prompt Engineering. I enjoy breaking down complex problems, designing structured instructions, evaluating AI-generated outputs, and iteratively refining solutions to build practical systems. My work spans AI-powered healthcare and cybersecurity, including multimodal dementia screening and firmware security analysis, while I also conduct Google Gemini technical sessions and lead a growing AI community. I am working on improving my ML skills and practising DSA in C++
+CSE (AI) undergraduate focused on Artificial Intelligence, Machine Learning, Generative AI, and Prompt Engineering. I enjoy breaking down complex problems, designing structured instructions, evaluating AI-generated outputs, and iteratively refining solutions to build practical systems. My work spans AI-powered healthcare and cybersecurity, including multimodal dementia screening and firmware security analysis, while I also contribute in major communities and events as a Graphic Designer. I am working on improving my ML skills and practicing DSA in C++
 
 **Contact** : Email - abhadra1606@gmail.com
 
@@ -52,7 +52,7 @@ CSE (AI) undergraduate focused on Artificial Intelligence, Machine Learning, Gen
 
 **Cloud, DevOps & Tooling**
 <br>
-<a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=gcp,docker,kubernetes,githubactions,terraform,nginx," /></a>
+<a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=gcp,docker,kubernetes,githubactions,terraform" /></a>
 
 ---
 <!-- 
