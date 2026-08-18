@@ -8,7 +8,7 @@
 
 </div>
   
-![Typing SVG](https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=600&size=22&pause=1000&color=B388FF&center=true&vCenter=true&width=800&lines=Graphic+Designer;AI+%2F+ML+Engineer;Probably+missed+a+meal+as+we+speak;Rapid+MVP+Developer;Public+Speaker)
+![Typing SVG](https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=600&size=22&pause=1000&color=B388FF&center=true&vCenter=true&width=800&lines=Graphic+Designer;UI/UX+Designer;AI+%2F+ML+Engineer;Probably+missed+a+meal+as+we+speak;Rapid+MVP+Developer;Public+Speaker)
 
 <p align="center">
 <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="100">
