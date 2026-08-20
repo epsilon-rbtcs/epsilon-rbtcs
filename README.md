@@ -32,7 +32,7 @@ CSE (AI) undergraduate focused on Artificial Intelligence, Machine Learning, Gen
 
 **Contact** : Email - abhadra1606@gmail.com
 
-**Open To:**  ML Engineer | Prompt Engineer | Open Source Collaborations
+**Open To:**  ML Engineer | Prompt Engineer | Open Source Collaborations | UI/UX 
 
 ---
 
