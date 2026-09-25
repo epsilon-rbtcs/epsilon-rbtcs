@@ -88,7 +88,7 @@ Developed and maintained high-traffic web applications, focusing on the seamless
 | **Aavishkar 5.0 Winner (2026)** | Placed 1st out of **150+ teams** by building an AI-driven early dementia detection system. |
 | **Hacknovate 7.0 (2026)** | Placed **Top 60** in online mode working on AIML based Deepfake Detection System.  |
 | **HexaFalls 2.0 (2026)** | Competed with thousands of teams nationwide and became one of the finalists at Kolkata. |
-| **DSU Devhack 3.0 (2026)** | Placed **Top 60 Finalists** among **5000+** applications nationwide and participated in Grand Finale at Bangalore. |
+| **DSU Devhack 3.0 (2026)** | Placed **Top 60 Finalists** among **5000+** applications nationwide and became a Finalist at Bangalore. |
 | **Google Arcade Legend (2025)** | Completed **390+ labs** working with Kubernetes, AI/ML workflows, LLMs, Appsheet, etc along with other Google Cloud services. |
 
 </div>
