@@ -52,7 +52,7 @@ CSE (AI) undergraduate focused on Artificial Intelligence, Machine Learning, Gen
 
 **Cloud, DevOps & Tooling**
 <br>
-<a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=gcp,docker,kubernetes,githubactions,terraform" /></a>
+<a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=gcp,docker,kubernetes,githubactions,terraform,aws" /></a>
 
 ---
 <!-- 
